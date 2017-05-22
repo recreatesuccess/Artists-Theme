@@ -1,15 +1,15 @@
 #-------------------------------
 # General Site Settings
 
-title: Artists Theme
-description: Thinker // Designer // YouTuber
-email: devtipsfordesigners@gmail.com
+title: Recreate Success
+description: Thinker // Writer // YouTuber
+email: recreatesuccess@gmail.com
 
 # NOTE: The Logo and Background image are defined in the all.sass document.
 
 menu:
 - {name: About Me, url: '#about-me'}
-- {name: Work, url: '#work'}
+- {name: Books, url: '#work'}
 - {name: Clients, url: '#clients'}
 - {name: Contact, url: '#contact'}
 
@@ -39,7 +39,7 @@ seo:
 # NOTE: The avatar is defined in the all.sass document.
 
 blurb: >
-  **Travis specializes in making things** for human people.
+  **Jeremy specializes in making things** for human people.
   Most of the things he makes are [digital interfaces](http://travisneilson.com){:target="_blank"},
   but he also puts effort into crafting [next-level beats](http://soundcloud.com/travis-neilson){:target="_blank"}
   and [YouTube videos](http://youtube.com/user/devtipsfordesigners){:target="_blank"} about making codes happen.
@@ -52,7 +52,7 @@ skills:
 - {name: Teaching, value: '6'}
 - {name: Planning, value: '7'}
 - {name: Visual Design, value: '5'}
-- {name: UX Design, value: '8'}
+- {name: Writing, value: '8'}
 - {name: Programming, value: '6'}
 
 #-------------------------------
